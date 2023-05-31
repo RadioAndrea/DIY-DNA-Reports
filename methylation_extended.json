@@ -1,7 +1,7 @@
 {
-    "report_type": "Methylation",
-    "last_updated": "Never",
-    "snp_direction": "May 31 2023",
+    "report_type": "Methylation Extended",
+    "last_updated": "May 31 2023",
+    "snp_direction": "plus",
     "snps": [
         {
             "snp_id": "rs4680",
@@ -31,7 +31,7 @@
         },
         {
             "snp_id": "rs769224",
-            "gene_name": "COMT",
+            "gene_name": "COMT p199P",
             "variants":
                 {
                     "G": "Wild",
@@ -67,6 +67,19 @@
             "source": "dbSNP",
             "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs731236",
             "snpedia_link": "https://www.snpedia.com/index.php/Rs731236"
+        },
+        {
+            "snp_id": "rs10735810",
+            "gene_name": "Vit D Receptor Fok",
+            "variants":
+                {
+                    "A": "Wild",
+                    "G": ""
+                },
+            "ideal": "G",
+            "source": "SNPEDIA YASKOMETH",
+            "source_link": "https://www.snpedia.com/index.php/Yasko_Methylation",
+            "snpedia_link": ""
         },
         {
             "snp_id": "rs6323",
@@ -200,6 +213,19 @@
             "snpedia_link": "https://www.snpedia.com/index.php/Rs2287780"
         },
         {
+            "snp_id": "rs2303080",
+            "gene_name": "MTRR S257T",
+            "variants":
+                {
+                    "T": "Wild",
+                    "A": ""
+                },
+            "ideal": "A",
+            "source": "SNPEDIA YASKOMETH",
+            "source_link": "https://www.snpedia.com/index.php/Yasko_Methylation",
+            "snpedia_link": ""
+        },
+        {
             "snp_id": "rs1802059",
             "gene_name": "MTR A664A",
             "variants":
@@ -211,6 +237,19 @@
             "source": "dbSNP",
             "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs1802059",
             "snpedia_link": "https://www.snpedia.com/index.php/Rs1802059"
+        },
+        {
+            "snp_id": "rs585800",
+            "gene_name": "BHMT 01",
+            "variants":
+                {
+                    "A": "Wild",
+                    "T": ""
+                },
+            "ideal": "A",
+            "source": "SNPEDIA YASKOMETH",
+            "source_link": "https://www.snpedia.com/index.php/Yasko_Methylation",
+            "snpedia_link": ""
         },
         {
             "snp_id": "rs567754",
@@ -328,6 +367,32 @@
             "source": "dbSNP",
             "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs2298758",
             "snpedia_link": "https://www.snpedia.com/index.php/Rs2298758"
+        },
+        {
+            "snp_id": "rs2298758",
+            "gene_name": "CBS L278Y",
+            "variants":
+                {
+                    "G": "Wild",
+                    "A": "CBS Synonymous"
+                },
+            "ideal": "A",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs2298758",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs2298758"
+        },
+        {
+            "snp_id": "rs1799983",
+            "gene_name": "NOS-3 D298E",
+            "variants":
+                    {
+                        "G": "Wild",
+                        "T": ""
+                    },
+            "ideal": "G",
+            "source": "SNPEDIA YASKOMETH",
+            "source_link": "https://www.snpedia.com/index.php/Yasko_Methylation#AHCY_Gene",
+            "snpedia_link": ""
         },
         {
             "snp_id": "rs1979277",
