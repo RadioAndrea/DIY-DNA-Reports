@@ -1,0 +1,345 @@
+{
+    "report_type": "Methylation",
+    "last_updated": "Never",
+    "snp_direction": "plus",
+    "snps": [
+        {
+            "snp_id": "rs4680",
+            "gene_name": "COMT",
+            "variants":
+                {
+                    "A": "Wild",
+                    "G": "V158 Missense"
+                },
+            "ideal": "A",
+            "source": "SNPedia",
+            "source_link": "https://www.ncbi.nlm.nih.gov//variation/17591/",
+            "snpedia_link": "www.https://www.snpedia.com/index.php/Rs4680"
+        },
+        {
+            "snp_id": "rs4633",
+            "gene_name": "COMT",
+            "variants":
+                {
+                    "C": "Wild",
+                    "T": "H62 Synonymous"
+                },
+            "ideal": "C",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs4633",
+            "snpedia_link": "www.https://www.snpedia.com/index.php/Rs4633"
+        },
+        {
+            "snp_id": "rs769224",
+            "gene_name": "COMT",
+            "variants":
+                {
+                    "G": "Wild",
+                    "A": "Pro199 Synonymous"
+                },
+            "ideal": "G",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs769224",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs769224"
+        },
+        {
+            "snp_id": "rs1544410",
+            "gene_name": "Vit D Receptor",
+            "variants":
+                {
+                    "C": "Wild",
+                    "T": "Bsml Polymorphism"
+                },
+            "ideal": "C",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs1544410#variant_details",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs1544410"
+        },
+        {
+            "snp_id": "rs731236",
+            "gene_name": "Vit D Receptor",
+            "variants":
+                {
+                    "A": "Wild",
+                    "G": "VDR Taql"
+                },
+            "ideal": "A",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs731236",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs731236"
+        },
+        {
+            "snp_id": "rs6323",
+            "gene_name": "MAOA",
+            "variants":
+                {
+                    "G": "Wild",
+                    "T": "ARG297 Synonymous"
+                },
+            "ideal": "G",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs6323",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs6323"
+        },
+        {
+            "snp_id": "rs3741049",
+            "gene_name": "ACAT1",
+            "variants":
+                {
+                    "G": "Wild",
+                    "A": "ACAT Intron"
+                },
+            "ideal": "G",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs3741049",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs3741049"
+        },
+        {
+            "snp_id": "rs1801133",
+            "gene_name": "MTHFR C677T",
+            "variants":
+                {
+                    "G": "Wild",
+                    "A": "A222G Missense"
+                },
+            "ideal": "FU",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs1801133",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs1801133"
+        },
+        {
+            "snp_id": "rs2066470",
+            "gene_name": "MTHFR Pro39",
+            "variants":
+                {
+                    "G": "Wild",
+                    "A": "Pro39 Synonymous"
+                },
+            "ideal": "G",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs2066470",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs2066470"
+        },
+        {
+            "snp_id": "rs1801131",
+            "gene_name": "MTHFR 1298",
+            "variants":
+                {
+                    "T": "Wild",
+                    "G": "G470A Missense"
+                },
+            "ideal": "T",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs1801131",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs1801131"
+        },
+        {
+            "snp_id": "rs1805087",
+            "gene_name": "MTR A2756G",
+            "variants":
+                {
+                    "A": "Wild",
+                    "G": "A868G Missense"
+                },
+            "ideal": "A",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs1805087",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs1805087"
+        },
+        {
+            "snp_id": "rs1801394",
+            "gene_name": "MTRR A66G",
+            "variants":
+                {
+                    "A": "Wild",
+                    "G": "I22M Missense"
+                },
+            "ideal": "A",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs1801394",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs1801394"
+        },
+        {
+            "snp_id": "rs162036",
+            "gene_name": "MTRR K350A",
+            "variants":
+                {
+                    "A": "Wild",
+                    "G": "L350A Missense"
+                },
+            "ideal": "A",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs162036",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs162036"
+        },
+        {
+            "snp_id": "rs1802059",
+            "gene_name": "MTR \"Yasko Methylation\"",
+            "variants":
+                {
+                    "G": "Wild",
+                    "A": "A637 Synonymous"
+                },
+            "ideal": "G",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs1802059",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs1802059"
+        },
+        {
+            "snp_id": "rs567754",
+            "gene_name": "BHMT 02 \"Yasko Methylation\"",
+            "variants":
+                {
+                    "C": "Wild",
+                    "T": "BHM Intron"
+                },
+            "ideal": "C",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs567754",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs567754"
+        },
+        {
+            "snp_id": "rs651852",
+            "gene_name": "BMHT 08 \"Yasko Methylation\"",
+            "variants":
+                {
+                    "C": "Wild",
+                    "T": "BMHT Intron"
+                },
+            "ideal": "C",
+            "source": "dbSNP",
+            "source_link": "https://www.snpedia.com/index.php/Rs651852",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs651852"
+        },
+        {
+            "snp_id": "rs819147",
+            "gene_name": "AHCY 01",
+            "variants":
+                {
+                    "C": "Wild",
+                    "T": "AHCY Intron"
+                },
+            "ideal": "C",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs819147",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs819147"
+        },
+        {
+            "snp_id": "rs819171",
+            "gene_name": "AHCT 19",
+            "variants":
+                {
+                    "C": "Wild",
+                    "T": "AHCY Intron"
+                },
+            "ideal": "C",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs819171",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs819171"
+        },
+        {
+            "snp_id": "rs234706",
+            "gene_name": "CBS C699T",
+            "variants":
+                {
+                    "G": "Wild",
+                    "A": "Tyr233 Synonymous"
+                },
+            "ideal": "G",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs234706",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs234706"
+        },
+        {
+            "snp_id": "rs1801181",
+            "gene_name": "CBS A360A",
+            "variants":
+                {
+                    "G": "Wild",
+                    "A": "A360 Synonymous"
+                },
+            "ideal": "G",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs1801181",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs1801181"
+        },
+        {
+            "snp_id": "rs10380",
+            "gene_name": "MTRR H595Y",
+            "variants":
+                {
+                    "C": "Wild",
+                    "T": "H595Y Missense"
+                },
+            "ideal": "C",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs10380",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs10380"
+        },
+        {
+            "snp_id": "rs2287780",
+            "gene_name": "MTRR R415T",
+            "variants":
+                {
+                    "C": "Wild",
+                    "T": "R415C Missense"
+                },
+            "ideal": "C",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs2287780",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs2287780"
+        },
+        {
+            "snp_id": "rs617219",
+            "gene_name": "BHMT 04 \"Yasko Methylation\"",
+            "variants":
+                {
+                    "A": "Wild",
+                    "C": "Variant"
+                },
+            "ideal": "A",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs617219",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs617219"
+        },
+        {
+            "snp_id": "rs819134",
+            "gene_name": "AHCY 02",
+            "variants":
+                {
+                    "G": "Wild",
+                    "A": "AHCY Intron"
+                },
+            "ideal": "G",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs819134",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs819134"
+        },
+        {
+            "snp_id": "rs2298758",
+            "gene_name": "CBS N212N",
+            "variants":
+                {
+                    "G": "Wild",
+                    "A": "CBS N212 Synonymous"
+                },
+            "ideal": "G",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs2298758",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs2298758"
+        },
+        {
+            "snp_id": "rs1979277",
+            "gene_name": "SHMT1",
+            "variants":
+                {
+                    "G": "Wild",
+                    "A": "L474F Missense"
+                },
+            "ideal": "G",
+            "source": "dbSNP",
+            "source_link": "https://www.ncbi.nlm.nih.gov/snp/rs1979277",
+            "snpedia_link": "https://www.snpedia.com/index.php/Rs1979277"
+        }
+    ]
+}
